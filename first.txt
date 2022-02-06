@@ -2,3 +2,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 “K“–
 Np.2
 git rm
+git diff
